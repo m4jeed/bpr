@@ -1,0 +1,19 @@
+
+.section-padding {
+    padding: 100px 0;
+}
+.w-content img {
+    margin-bottom: 40px;
+}
+
+.w-content h3 {}
+
+.w-content h2,
+.w-content h3 {
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+.w-area .read-more {
+    width: auto;
+}
